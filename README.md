@@ -1,9 +1,4 @@
 
-# Signy AP02 - Auto - Automation Assignment
-
-Problem statemet can be found [here](https://docs.google.com/document/d/1jY6V7JFYrHUnX92is2Y7noKfeNtSVshlSR64XGkjaTk/edit)
-
-
 ## Pre-requiste
 
 ```sh
